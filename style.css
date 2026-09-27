@@ -17,4 +17,5 @@ button {
   font-size: 18px;
   border-radius: 10px;
   border: 1px solid black;
+  background: linear-gradient( 130deg,rgb(228, 29, 247), rgb(128, 74, 255), rgb(255, 192, 250));
 }
