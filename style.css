@@ -22,6 +22,11 @@ button {
   background: linear-gradient( 130deg,rgb(228, 29, 247), rgb(128, 74, 255), rgb(255, 192, 250));
 }
 
+button:hover {
+    background: linear-gradient( 130deg,rgb(154, 19, 167), rgb(93, 53, 187), rgb(173, 132, 170));
+    cursor: pointer;
+}
+
 h2 {
     -webkit-background-clip: text;
     background-clip: text;
